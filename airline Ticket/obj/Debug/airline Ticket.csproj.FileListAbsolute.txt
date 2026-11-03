@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\bin\Debug\airline Ticket.exe.config
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\bin\Debug\airline Ticket.exe
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\bin\Debug\airline Ticket.pdb
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline Ticket.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline_Ticket.Form1.resources
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline_Ticket.Properties.Resources.resources
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline Ticket.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline Ticket.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline Ticket.exe
+C:\Users\hp\source\repos\airline Ticket\airline Ticket\obj\Debug\airline Ticket.pdb
