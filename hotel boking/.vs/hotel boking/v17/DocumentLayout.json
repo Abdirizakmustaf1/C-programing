@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\hotel boking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6BC4F3-E3FA-4CC8-A350-62942EB14158}|hotel boking\\hotel boking.csproj|C:\\Users\\hp\\source\\repos\\hotel boking\\hotel boking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6BC4F3-E3FA-4CC8-A350-62942EB14158}|hotel boking\\hotel boking.csproj|solutionrelative:hotel boking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6BC4F3-E3FA-4CC8-A350-62942EB14158}|hotel boking\\hotel boking.csproj|c:\\users\\hp\\source\\repos\\hotel boking\\hotel boking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F6BC4F3-E3FA-4CC8-A350-62942EB14158}|hotel boking\\hotel boking.csproj|solutionrelative:hotel boking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\hotel boking\\hotel boking\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel boking\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\hotel boking\\hotel boking\\Form1.cs [Design]",
+              "RelativeToolTip": "hotel boking\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:07:06.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\hotel boking\\hotel boking\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel boking\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\hotel boking\\hotel boking\\Form1.cs",
+              "RelativeToolTip": "hotel boking\\Form1.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:15:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
